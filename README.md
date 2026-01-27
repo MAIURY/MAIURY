@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Maiury Fernandes!</h2>
+<h2 align="left">Olá 👋! Meu nome é Maiury Souza Fernandes!</h2>
 
 ###
 
@@ -11,13 +11,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO_GITHUB&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAIURY&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MAIURY&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
@@ -77,6 +73,5 @@ Além da graduação, atuo como desenvolvedora e participo de programas como o c
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/snake.svg" alt="Snake animation" />
-</div>## Hi there 👋
-
+  <img src="https://raw.githubusercontent.com/MAIURY/MAIURY/output/snake.svg" alt="Snake animation" />
+</div>
