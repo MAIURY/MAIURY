@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Maiury Souza Fernandes!</h2>
+<h2 align="left">Olá 👋! Meu nome é Maiury Fernandes!</h2>
 
 ###
 
