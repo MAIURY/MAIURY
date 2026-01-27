@@ -1,16 +1,82 @@
-## Hi there 👋
+<h2 align="left">Olá 👋! Meu nome é Maiury Fernandes!</h2>
 
-<!--
-**MAIURY/MAIURY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">
+  Sou graduanda em <b>Ciência da Computação</b> pela <b>UESC</b> (Universidade Estadual de Santa Cruz) e Desenvolvedora Fullstack.
+  <br>
+  Atualmente, meu foco está em pesquisa científica, unindo <b>Inteligência Artificial</b> e <b>Realidade Virtual</b>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO_GITHUB&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+</div>
+
+###
+
+<div align="left">
+  <a href="LINK_DO_SEU_YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  <a href="LINK_DO_SEU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:SEU_EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+### 🚀 Sobre Mim
+
+Comecei minha trajetória com um curso de informática e logo me apaixonei pela área, iniciando na programação com **C**. Através do *Bootcamp End to End Engineering* (DIO), expandi meus conhecimentos para **C#**, **.NET**, **Docker** e **SQL**.
+
+Além da graduação, atuo como desenvolvedora e participo de programas como o curso de TI do Google e a **Latin American Leadership Academy (LALA)**. 
+
+🔭 **Atualmente:** * Desenvolvendo pesquisa científica com foco em **Agentes de IA** e ambientes de **Realidade Virtual**.
+* Trabalhando em aplicações backend e fullstack.
+
+📫 **Soft Skills:**
+* Adaptabilidade e aprendizado contínuo.
+* Trabalho em equipe e comunicação (experiência com teatro e monitoria acadêmica).
+* Mentalidade de crescimento: encaro erros como oportunidades.
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/snake.svg" alt="Snake animation" />
+</div>## Hi there 👋
+
