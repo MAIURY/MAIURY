@@ -44,19 +44,4 @@
 
 <br clear="both">
 
-### 🚀 Sobre Mim
-
-Comecei minha trajetória com um **curso de TI** e logo me apaixonei pela área, iniciando na programação com **C**. Através do *Bootcamp End to End Engineering* (DIO), expandi meus conhecimentos para **C#**, **.NET**, **Docker** e **SQL**.
-
-Além da graduação, atuo como desenvolvedora e faço parte da **Latin American Leadership Academy (LALA)**. 
-
-🔭 **Atualmente:** * Desenvolvendo pesquisa científica com foco em **Agentes de IA** e ambientes de **Realidade Virtual**.
-* Trabalhando em aplicações backend e fullstack.
-
-📫 **Soft Skills:**
-* Adaptabilidade e aprendizado contínuo.
-* Trabalho em equipe e comunicação (experiência com teatro e monitoria acadêmica).
-* Mentalidade de crescimento: encaro erros como oportunidades.
-
----
 
