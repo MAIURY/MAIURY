@@ -44,13 +44,9 @@
 ###
 
 <div align="left">
-  <a href="LINK_DO_SEU_YOUTUBE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
-  <a href="LINK_DO_SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/cicmaiury
+" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:SEU_EMAIL@GMAIL.COM">
