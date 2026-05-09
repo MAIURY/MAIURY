@@ -31,7 +31,6 @@ Atualmente trabalho com **agentes conversacionais em LLMs** aplicados a Realidad
     <img src="https://skillicons.dev/icons?i=python,bash,cs,nodejs,js,git,linux,gcp,docker,postgresql" />
   </a>
 </p>
----
 
 ## 🤖 Inteligência Artificial & Realidade Virtual
 - **Agentes conversacionais de IA em ambientes imersivos**
