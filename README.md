@@ -1,47 +1,89 @@
-<h2 align="left">Olá 👋! Meu nome é Maiury Fernandes!</h2>
+# 👩‍💻 Maiury Souza Fernandes
 
-###
+Olá! 👋 Me chamo **Maiury Souza Fernandes** e sou **Desenvolvedora Backend e Pesquisadora** com forte atuação em **Inteligência Artificial e Realidade Virtual**, especialmente aplicada a **agentes conversacionais e cloud security**.
 
-<p align="left">
-  Sou graduanda em <b>Ciência da Computação</b> pela <b>UESC</b> (Universidade Estadual de Santa Cruz) e Desenvolvedora Fullstack.
-  <br>
-  Atualmente, meu foco está em pesquisa científica, unindo <b>Inteligência Artificial</b> e <b>Realidade Virtual</b>.
+---
+
+## 🧠 Sobre mim
+
+Sou estudante de **Ciência da Computação** na UESC e atuo como pesquisadora no **MTILab** (Laboratório de Modelagem e Tecnologias Imersivas), desenvolvendo soluções que integram **engenharia de software** com **inteligência artificial**, unindo back-end, infraestrutura em cloud e pipelines de IA.
+
+Tenho experiência prática com **desenvolvimento de agentes de IA conversacionais e otimização de sistemas em cloud**, com foco em:
+- **Agentes de IA integrados a ambientes imersivos (VR)**
+- **Arquitetura de backend e APIs REST**
+- **Processamento de linguagem natural e síntese de fala**
+- **Cloud Security e infraestrutura em GCP**
+- **Otimização de latência e redução de hallucinations em modelos**
+
+Atualmente trabalho com **agentes conversacionais em LLMs** aplicados a Realidade Virtual, utilizando frameworks modernos e explorando **otimização de prompts, desempenho computacional e qualidade dos resultados**.
+
+---
+
+## 🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicmaiury/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAIURY)
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,csharp,nodejs,js,git,linux,gcp,docker,postgresql," />
+  </a>
 </p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnet logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-</div>
+## 🤖 Inteligência Artificial & Realidade Virtual
+- **Agentes conversacionais de IA em ambientes imersivos**
+- **Processamento de linguagem natural**
+- **Síntese de fala (TTS) e reconhecimento de voz (STT)**
+- **LLMs**
+- **Redução de hallucinations e otimização de qualidade**
+- **Integração IA-VR em tempo real**
+- **Avaliação e pipelines de qualidade**
 
-###
+**Ferramentas e tecnologias:**
+- **Groq / Llama-3.1-8B**
+- **Google Cloud Speech-to-Text e WaveNet TTS**
+- **Google Cloud Platform (GCP)**
+- **Unity (C#)**
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/cicmaiury" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:fernandesmaiury@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
+---
 
-###
+## 💻 Desenvolvimento Backend & Arquitetura
+- **Linguagens:** Python, C#, JavaScript/Node.js, Bash
+- **Frameworks:** Flask, Node.js
+- **APIs REST e protocolos de comunicação**
+- **Arquitetura de sistemas e organização de projetos**
+- **Sincronização cliente-servidor e manipulação de estado**
 
-<br clear="both">
+---
 
+## ☁️ Cloud & Infraestrutura
+- **Google Cloud Platform (GCP):** Cloud Run, Storage, Speech-to-Text, Text-to-Speech
+- **Otimização de latência e performance**
+- **Linux** 
+- **Git & GitHub**
+- **Docker**
 
+---
+
+## 🗄️ Bancos de Dados
+- **PostgreSQL**
+
+---
+
+## 🧠 Soft Skills & Pesquisa
+- Pensamento analítico e científico
+- Organização e responsabilidade
+- Capacidade de resolver problemas complexos
+- Comunicação clara e documentação técnica
+- **Escrita de relatórios científicos em LaTeX**
+- Aprendizado contínuo e adaptabilidade
+
+---
+
+📫 **Vamos construir algo real?** Entre em contato.
