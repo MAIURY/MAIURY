@@ -1,6 +1,6 @@
 # 👩‍💻 Maiury Souza Fernandes
 
-Olá! 👋 Me chamo **Maiury Souza Fernandes** e sou **Desenvolvedora Backend e Pesquisadora** com forte atuação em **Inteligência Artificial e Realidade Virtual**, especialmente aplicada a **agentes conversacionais e cloud security**.
+Olá! 👋 Me chamo **Maiury** e sou **Desenvolvedora Backend e Pesquisadora** com forte atuação em **Inteligência Artificial e Realidade Virtual**, especialmente aplicada a **agentes conversacionais e cloud security**.
 
 ---
 
