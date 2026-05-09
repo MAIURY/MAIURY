@@ -1,6 +1,6 @@
 # 👩‍💻 Maiury 
 
-Olá! 👋 Me chamo **Maiury** e sou **Desenvolvedora Backend e Pesquisadora** com forte atuação em **Inteligência Artificial e Realidade Virtual**, especialmente aplicada a **agentes conversacionais e cloud security**.
+Olá! 👋 Me chamo **Maiury** e sou **Desenvolvedora Backend e Pesquisadora** com forte atuação em **Inteligência Artificial e Realidade Virtual**, especialmente aplicada a **agentes conversacionais e cloud**.
 
 ---
 
@@ -12,8 +12,8 @@ Tenho experiência prática com **desenvolvimento de agentes de IA conversaciona
 - **Agentes de IA integrados a ambientes imersivos (VR)**
 - **Arquitetura de backend e APIs REST**
 - **Processamento de linguagem natural e síntese de fala**
-- **Cloud Security e infraestrutura em GCP**
-- **Otimização de latência e redução de hallucinations em modelos**
+- **Cloud e infraestrutura em GCP**
+- **Otimização de latência e redução de alucinação em modelos**
 
 Atualmente trabalho com **agentes conversacionais em LLMs** aplicados a Realidade Virtual, utilizando frameworks modernos e explorando **otimização de prompts, desempenho computacional e qualidade dos resultados**.
 
